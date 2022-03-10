@@ -2,12 +2,12 @@
 Requirements and specification for the evidence hub
 
 
-##Objective
+## Objective
 
 The EHDEN evidence hub is intended to be the primary repository where studies, including relevant documentation and interactive exploration of results will be made available to the users in a secure way. The studies in scope are the ones executed through the EHDEN network, irrespective of whom the respective lead investigator / participants are. 
 
 
-##Principles
+## Principles
 
 - The Evidence Hub will only be accessible to registered users
 - Under studies we understand any coordinated effort to generate scientific insights or advance public health
