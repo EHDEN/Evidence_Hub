@@ -10,7 +10,7 @@ The EHDEN evidence hub is intended to be the primary repository where studies, i
 ## Principles
 
 - The Evidence Hub will only be accessible to registered users
-- Under studies we understand any coordinated effort to generate scientific insights or advance public health
+- Under studies we understand any coordinated effort to generate scientific insights or advance public health. All such studies will end up in the evidence hub, from the moment that they are approved to be performed and irrespective of their eventual result
 - Excluded are the preparatory steps to evaluate the possibility for performing the intended study as well as the contractual / administrative preparation
 - Any high level information on studies i.e. study title, description, status is accessible to all users of the evidence hub
 - For the details i.e. protocol , methodology and results of a study a study can be classified as 'public' or 'confidential'
